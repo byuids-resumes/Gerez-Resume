@@ -25,6 +25,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 ## Skills
+
+Consider adding a section describing some projects where you have used these programming languages.
+i.e.
+
+__Projects__
+- Used pandas and numpy to tidy data for use in an Sklearn classification model
+- 
+
 __Programming Languages__
 
 - Python
@@ -73,6 +81,10 @@ __Others__
 
 `August 2022 - December 2022`
 __Looking For__, Longyearbyen, Norway
+
+this section is a little confusing. Are you trying to say that you are looking for an internship in this location? Or you already have one set up for this period?
+
+Consider adding a section with any service or work experience you have, even if it isn't DS related.
 
 
 
